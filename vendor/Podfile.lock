@@ -1,0 +1,10 @@
+PODS:
+  - iRate (1.11.3)
+
+DEPENDENCIES:
+  - iRate
+
+SPEC CHECKSUMS:
+  iRate: 09ef501c74ade02013348bc33225ea48f7aa4e55
+
+COCOAPODS: 0.35.0
